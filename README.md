@@ -1,33 +1,24 @@
-<!-- README PROFILE PAGE -->
+<!-- COMING SOON -->
 
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, Thanks for stopping by!
 
-I'm a passionate software developer with a love for creating meaningful and impactful projects. I enjoy building web applications, exploring new technologies, and contributing to open-source projects.
+🚧 My GitHub profile is currently under construction. 🚧
 
-## 🔭 Current Projects
+I'm working hard to create an awesome README to showcase my projects and skills. 
 
-- Project 1: [Project Name](https://github.com/yourusername/project1)
-- Project 2: [Project Name](https://github.com/yourusername/project2)
+Please check back later for more updates and exciting content!
 
-## 🌱 Skills
+In the meantime, feel free to explore my repositories or connect with me on social media:
 
-- Front-end: HTML, CSS, JavaScript, React
-- Back-end: Node.js, Express, MongoDB
-- Other: Git, GitHub, RESTful APIs
+- [LinkedIn](https://www.linkedin.com/in/tolufolorunso/)
+- [Twitter](https://twitter.com/Developer_Tolu)
+- Email: tolufolorunso@yahoo.com
 
-## 📫 Get in Touch
+I'm looking forward to sharing my projects and experiences with you soon. 🚀
 
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: your.email@example.com
-
-## ⚡ Fun Fact
-
-Did you know that I love playing the guitar in my free time? 🎸
+Thank you for your patience!
 
 ---
 
-Feel free to reach out if you want to collaborate on projects or just chat about tech and coding. I'm always excited to connect with fellow developers!
+⚡ Fun Fact: Did you know that I love exploring new technologies and coding challenges? 💻
 
-Let's build something amazing together! 🚀
