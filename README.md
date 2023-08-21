@@ -72,6 +72,7 @@ Task management app using Angular.
 I have hands-on experience working with the above technologies and tools, and I am dedicated to staying up-to-date with the latest trends and best practices in the ever-evolving field of software development.
 
 ## Contact
+- Phone Number: [Folorunso Tolulope](+2348068963757)
 - LinkedIn: [Folorunso Tolulope](https://www.linkedin.com/in/tolufolorunso/)
 - Twitter: [@Developer_Tolu](https://twitter.com/Developer_Tolu)
 - Email: [tolufolorunso@yahoo.com](mailto:tolufolorunso@yahoo.com), [tolufolorunso@gmail.com](mailto:tolufolorunso@gmail.com)
