@@ -61,6 +61,7 @@ Task management app using Angular.
 
 ### Methodologies
 - Object-Oriented Programming (OOP)
+- Functional Programming (FP)
 - Test-Driven Development (TDD)
 
 ### Soft Skills
