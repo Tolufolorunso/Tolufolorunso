@@ -41,6 +41,7 @@ Task management app using Angular.
 - HTML5
 - CSS3 (SASS/SCSS)
 - React.js
+- Next.Js
 - Angular
 - Node.js (Express)
 - RESTful APIs
