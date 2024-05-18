@@ -10,6 +10,7 @@ Integrated Library System using Next.js.
 - **Description:** Developed an efficient library management system using Next.js framework.
 - **Technologies:** Next.js, React, Node.js.
 - **GitHub Repo:** [dzuelsFoundation](https://github.com/Tolufolorunso/dzuelsFoundation)
+- **Link:** [dzuelsFoundation](https://dzuelsfoundation.vercel.app/)
 
 ### [TV360_Nigeria](https://github.com/Tolufolorunso/TV360_Nigeria)
 News app for 360news using React Native.
