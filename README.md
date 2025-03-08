@@ -8,7 +8,7 @@ I am a passionate software developer with a strong background in web and mobile 
 ### [dzuelsFoundation](https://github.com/Tolufolorunso/dzuelsFoundation)
 Integrated Library System using Next.js.
 - **Description:** Developed an efficient library management system using Next.js framework.
-- **Technologies:** Next.js, React, Node.js, MongoDB, SQL Database.
+- **Technologies:** Next.js, React, Node.js, MongoDB.
 - **GitHub Repo:** [dzuelsFoundation](https://github.com/Tolufolorunso/dzuelsFoundation)
 - **Link:** [dzuelsFoundation](https://dzuelsfoundation.vercel.app/)
 
