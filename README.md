@@ -374,7 +374,8 @@
   <a href="https://twitter.com/tolulopebuilds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:tolufolorunso@yahoo.com"><img src="https://img.shields.io/badge/Yahoo-6001d2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail" /></a>
   <a href="mailto:tolufolorunso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="tel:+2348068963757"><img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone/WhatsApp" /></a>
+  <a href="https://wa.me/2348068963757"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="tel:+2348068963757"><img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logoColor=white" alt="Phone" /></a>
 </div>
 
 <br/>
